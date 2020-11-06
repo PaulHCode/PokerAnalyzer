@@ -1,0 +1,634 @@
+﻿RamX joins table via late registration
+Starting tournament 21
+
+Hand #12668-1 - 2020-09-22 19:28:53
+Game: NL Hold'em (0+0) - Blinds 10/20
+Site: Give Online Poker
+Table: 0 - TD - Test Tournament - Table 2
+Seat 1: CHALLEN (20000)
+Seat 2: nikhil (20000)
+Seat 3: AllenD (20000)
+Seat 4: KMAG (20000)
+Seat 5: RamX (20000)
+Seat 6: bigbrew (20000)
+Seat 7: lmora (20000)
+Seat 8: Alex_young (20000)
+Seat 9: mcmcgurk (20000)
+CHALLEN has the dealer button
+nikhil posts small blind 10
+AllenD posts big blind 20
+** Hole Cards ** [9 players]
+KMAG has timed out
+KMAG folds
+RamX raises to 20000 (All-in)
+bigbrew calls 20000 (All-in)
+lmora folds
+Alex_young folds
+mcmcgurk calls 20000 (All-in)
+CHALLEN calls 20000 (All-in)
+nikhil calls 19990 (All-in)
+AllenD folds
+** Flop ** [2d Jc Kd]
+** Turn ** [Jh]
+** River ** [9c]
+** Pot Show Down ** [2d Jc Kd Jh 9c]
+CHALLEN shows [Ts 3s] (a Pair of Jacks +KT9)
+nikhil shows [4h 4s] (Two Pair, Jacks and Fours +K)
+RamX shows [Kc 9h] (Two Pair, Kings and Jacks +9)
+bigbrew shows [5h 7c] (a Pair of Jacks +K97)
+mcmcgurk shows [6d Qs] (a Pair of Jacks +KQ9)
+RamX wins Pot (100020) with Two Pair
+CHALLEN rebuys
+nikhil rebuys
+bigbrew rebuys
+mcmcgurk rebuys
+** Summary **
+Board: [2d Jc Kd Jh 9c], Players: 9, Pots: 1, Total: 100020, Rake: 0, End: Showdown
+Seat 1: CHALLEN (-20000) [Ts 3s] Showdown with a Pair of Jacks +KT9
+Seat 2: nikhil (-20000) [4h 4s] Showdown with Two Pair, Jacks and Fours +K
+Seat 3: AllenD (-20) [6s Tc] Folded on PreFlop
+Seat 4: KMAG (+0) [As 5s] Folded on PreFlop
+Seat 5: RamX (+80020) [Kc 9h] Showdown with Two Pair, Kings and Jacks +9
+Seat 6: bigbrew (-20000) [5h 7c] Showdown with a Pair of Jacks +K97
+Seat 7: lmora (+0) [Th 6h] Folded on PreFlop
+Seat 8: Alex_young (+0) [6c 8s] Folded on PreFlop
+Seat 9: mcmcgurk (-20000) [6d Qs] Showdown with a Pair of Jacks +KQ9
+
+Hand #12672-2 - 2020-09-22 19:30:16
+Game: NL Hold'em (0+0) - Blinds 15/30
+Site: Give Online Poker
+Table: 0 - TD - Test Tournament - Table 2
+Seat 1: CHALLEN (20000)
+Seat 2: nikhil (20000)
+Seat 3: AllenD (19980)
+Seat 4: KMAG (20000)
+Seat 5: RamX (100020)
+Seat 6: bigbrew (20000)
+Seat 7: lmora (20000)
+Seat 8: Alex_young (20000)
+Seat 9: mcmcgurk (20000)
+nikhil has the dealer button
+AllenD posts small blind 15
+KMAG posts big blind 30
+** Hole Cards ** [9 players]
+RamX has timed out
+RamX folds
+bigbrew calls 30
+lmora calls 30
+Alex_young raises to 20000 (All-in)
+mcmcgurk calls 20000 (All-in)
+CHALLEN calls 20000 (All-in)
+nikhil calls 20000 (All-in)
+AllenD calls 19965 (All-in)
+KMAG has timed out
+KMAG folds
+bigbrew calls 19970 (All-in)
+lmora folds
+** Flop ** [9c 5c 7c]
+** Turn ** [Jc]
+** River ** [6s]
+** Side Pot 1 Show Down ** [9c 5c 7c Jc 6s]
+CHALLEN shows [8c Kd] (a Flush, Jack high +9875)
+nikhil shows [Ah Kh] (High Card Ace +KJ97)
+bigbrew shows [9h Jh] (Two Pair, Jacks and Nines +7)
+Alex_young shows [5d Kc] (a Flush, King high +J975)
+mcmcgurk shows [8s 2c] (a Flush, Jack high +9752)
+Alex_young wins Side Pot 1 (100) with a Flush
+** Main Pot Show Down ** [9c 5c 7c Jc 6s]
+AllenD shows [6c 6h] (a Flush, Jack high +9765)
+Alex_young wins Main Pot (119940) with a Flush
+CHALLEN rebuys
+Alex_young: "I wanted to lose to test out rebuy ☹"
+AllenD rebuys
+bigbrew rebuys
+mcmcgurk rebuys
+nikhil finishes tournament in place #25
+** Summary **
+Board: [9c 5c 7c Jc 6s], Players: 9, Pots: 2, Total: 120040, Rake: 0, End: Showdown
+Seat 1: CHALLEN (-20000) [8c Kd] Showdown with a Flush, Jack high +9875
+Seat 2: nikhil (-20000) [Ah Kh] Showdown with High Card Ace +KJ97
+Seat 3: AllenD (-19980) [6c 6h] Showdown with a Flush, Jack high +9765
+Seat 4: KMAG (-30) [As 3s] Folded on PreFlop
+Seat 5: RamX (+0) [Ad Qh] Folded on PreFlop
+Seat 6: bigbrew (-20000) [9h Jh] Showdown with Two Pair, Jacks and Nines +7
+Seat 7: lmora (-30) [7h 2s] Folded on PreFlop
+Seat 8: Alex_young (+100040) [5d Kc] Showdown with a Flush, King high +J975
+Seat 9: mcmcgurk (-20000) [8s 2c] Showdown with a Flush, Jack high +9752
+
+mcmcgurk buys add-on
+CHALLEN buys add-on
+Alex_young buys add-on
+AllenD buys add-on
+RamX moved to Table 3
+
+Hand #12676-3 - 2020-09-22 19:34:14
+Game: NL Hold'em (0+0) - Blinds 50/100
+Site: Give Online Poker
+Table: 0 - TD - Test Tournament - Table 2
+Seat 1: CHALLEN (30000)
+Seat 3: AllenD (30000)
+Seat 4: KMAG (19970) - sitting out
+Seat 6: bigbrew (20000)
+Seat 7: lmora (19970)
+Seat 8: Alex_young (130040)
+Seat 9: mcmcgurk (30000)
+AllenD has the dealer button
+KMAG posts small blind 50
+bigbrew posts big blind 100
+** Hole Cards ** [7 players]
+JoeyCericola moved from Table 1
+sSs moved from Table 1
+lmora has timed out
+lmora folds
+Alex_young raises to 130040 (All-in)
+mcmcgurk calls 30000 (All-in)
+CHALLEN calls 30000 (All-in)
+AllenD calls 30000 (All-in)
+KMAG folds
+bigbrew calls 19900 (All-in)
+Alex_young refunded 100040
+** Flop ** [3h 8d 2s]
+** Turn ** [Ks]
+** River ** [Tc]
+** Side Pot 1 Show Down ** [3h 8d 2s Ks Tc]
+CHALLEN shows [7h 6h] (High Card King +T876)
+AllenD shows [Ts Jc] (a Pair of Tens +KJ8)
+Alex_young shows [Td Kd] (Two Pair, Kings and Tens +8)
+mcmcgurk shows [Jd 5c] (High Card King +JT85)
+Alex_young wins Side Pot 1 (40000) with Two Pair
+** Main Pot Show Down ** [3h 8d 2s Ks Tc]
+bigbrew shows [Qd Ac] (High Card Ace +KQT8)
+Alex_young wins Main Pot (100050) with Two Pair
+AllenD finishes tournament in place #18
+CHALLEN finishes tournament in place #17
+mcmcgurk finishes tournament in place #16
+bigbrew finishes tournament in place #15
+** Summary **
+Board: [3h 8d 2s Ks Tc], Players: 7, Pots: 2, Total: 140050, Rake: 0, End: Showdown
+Seat 1: CHALLEN (-30000) [7h 6h] Showdown with High Card King +T876
+Seat 3: AllenD (-30000) [Ts Jc] Showdown with a Pair of Tens +KJ8
+Seat 4: KMAG (-50) [Ah 4d] Folded on PreFlop
+Seat 6: bigbrew (-20000) [Qd Ac] Showdown with High Card Ace +KQT8
+Seat 7: lmora (+0) [Qc 5h] Folded on PreFlop
+Seat 8: Alex_young (+110050) [Td Kd] Showdown with Two Pair, Kings and Tens +8
+Seat 9: mcmcgurk (-30000) [Jd 5c] Showdown with High Card King +JT85
+
+Hand #12678-4 - 2020-09-22 19:36:26
+Game: NL Hold'em (0+0) - Blinds 100/200
+Site: Give Online Poker
+Table: 0 - TD - Test Tournament - Table 2
+Seat 2: JoeyCericola (260250)
+Seat 4: KMAG (19920) - sitting out
+Seat 5: sSs (19900) - sitting out
+Seat 7: lmora (19970) - sitting out
+Seat 8: Alex_young (240090)
+KMAG has the dealer button
+sSs plays after the button
+lmora posts small blind 100
+Alex_young posts big blind 200
+** Hole Cards ** [4 players]
+JoeyCericola raises to 260250 (All-in)
+KMAG folds
+lmora folds
+Alex_young calls 239890 (All-in)
+JoeyCericola refunded 20160
+** Flop ** [5c Tc 3d]
+** Turn ** [6h]
+** River ** [2h]
+** Pot Show Down ** [5c Tc 3d 6h 2h]
+JoeyCericola shows [Ts 8c] (a Pair of Tens +865)
+Alex_young shows [Qs Ac] (High Card Ace +QT65)
+JoeyCericola wins Pot (480280) with a Pair
+Alex_young finishes tournament in place #14
+** Summary **
+Board: [5c Tc 3d 6h 2h], Players: 5, Pots: 1, Total: 480280, Rake: 0, End: Showdown
+Seat 2: JoeyCericola (+240190) [Ts 8c] Showdown with a Pair of Tens +865
+Seat 4: KMAG (+0) [Qh 2s] Folded on PreFlop
+Seat 7: lmora (-100) [3h Qd] Folded on PreFlop
+Seat 8: Alex_young (-240090) [Qs Ac] Showdown with High Card Ace +QT65
+
+Hand #12679-5 - 2020-09-22 19:36:49
+Game: NL Hold'em (0+0) - Blinds 100/200
+Site: Give Online Poker
+Table: 0 - TD - Test Tournament - Table 2
+Seat 2: JoeyCericola (500440)
+Seat 4: KMAG (19920) - sitting out
+Seat 5: sSs (19900) - sitting out
+Seat 7: lmora (19870) - sitting out
+lmora has the dealer button
+JoeyCericola posts small blind 100
+KMAG posts big blind 200
+** Hole Cards ** [4 players]
+sSs folds
+lmora folds
+JoeyCericola raises to 500440 (All-in)
+KMAG folds
+JoeyCericola refunded 500240
+JoeyCericola wins Pot (400)
+** Summary **
+Board: [], Players: 4, Pots: 1, Total: 400, Rake: 0, End: PreFlop
+Seat 2: JoeyCericola (+200) [Ad Qd] Won without Showdown
+Seat 4: KMAG (-200) [4c 5d] Folded on PreFlop
+Seat 5: sSs (+0) [8c 4h] Folded on PreFlop
+Seat 7: lmora (+0) [Ks 2h] Folded on PreFlop
+
+Hand #12680-6 - 2020-09-22 19:37:00
+Game: NL Hold'em (0+0) - Blinds 100/200
+Site: Give Online Poker
+Table: 0 - TD - Test Tournament - Table 2
+Seat 2: JoeyCericola (500640)
+Seat 4: KMAG (19720) - sitting out
+Seat 5: sSs (19900) - sitting out
+Seat 7: lmora (19870) - sitting out
+JoeyCericola has the dealer button
+KMAG posts small blind 100
+sSs posts big blind 200
+** Hole Cards ** [4 players]
+lmora folds
+JoeyCericola raises to 500640 (All-in)
+KMAG folds
+sSs folds
+JoeyCericola refunded 500440
+JoeyCericola wins Pot (500)
+** Summary **
+Board: [], Players: 4, Pots: 1, Total: 500, Rake: 0, End: PreFlop
+Seat 2: JoeyCericola (+300) [Td Qc] Won without Showdown
+Seat 4: KMAG (-100) [8h 5c] Folded on PreFlop
+Seat 5: sSs (-200) [4c Ks] Folded on PreFlop
+Seat 7: lmora (+0) [As 7s] Folded on PreFlop
+
+Hand #12681-7 - 2020-09-22 19:37:10
+Game: NL Hold'em (0+0) - Blinds 100/200
+Site: Give Online Poker
+Table: 0 - TD - Test Tournament - Table 2
+Seat 2: JoeyCericola (500940)
+Seat 4: KMAG (19620) - sitting out
+Seat 5: sSs (19700) - sitting out
+Seat 7: lmora (19870) - sitting out
+KMAG has the dealer button
+sSs posts small blind 100
+lmora posts big blind 200
+** Hole Cards ** [4 players]
+Briancon moved from Table 3
+Steve moved from Table 3
+JoeyCericola raises to 500940 (All-in)
+KMAG folds
+sSs folds
+lmora folds
+JoeyCericola refunded 500740
+JoeyCericola wins Pot (500)
+** Summary **
+Board: [], Players: 4, Pots: 1, Total: 500, Rake: 0, End: PreFlop
+Seat 2: JoeyCericola (+300) [5h 4d] Won without Showdown
+Seat 4: KMAG (+0) [4c Qd] Folded on PreFlop
+Seat 5: sSs (-100) [6h 3h] Folded on PreFlop
+Seat 7: lmora (-200) [7s Js] Folded on PreFlop
+
+Hand #12684-8 - 2020-09-22 19:39:16
+Game: NL Hold'em (0+0) - Blinds 100/200 Ante 25
+Site: Give Online Poker
+Table: 0 - TD - Test Tournament - Table 2
+Seat 2: JoeyCericola (501240)
+Seat 3: Briancon (29900)
+Seat 4: KMAG (19620) - sitting out
+Seat 5: sSs (19600) - sitting out
+Seat 6: Steve (29900)
+Seat 7: lmora (19670) - sitting out
+sSs has the dealer button
+Steve plays after the button
+JoeyCericola posts ante 25
+Briancon posts ante 25
+KMAG posts ante 25
+sSs posts ante 25
+lmora posts ante 25
+lmora posts small blind 100
+JoeyCericola posts big blind 200
+** Hole Cards ** [5 players]
+Briancon raises to 400
+KMAG folds
+sSs folds
+lmora folds
+JoeyCericola raises to 501215 (All-in)
+Briancon calls 29475 (All-in)
+JoeyCericola refunded 471340
+** Flop ** [4d 9c 6d]
+** Turn ** [7s]
+** River ** [3h]
+** Pot Show Down ** [4d 9c 6d 7s 3h]
+JoeyCericola shows [Qd Ks] (High Card King +Q976)
+Briancon shows [9h As] (a Pair of Nines +A76)
+Briancon wins Pot (59975) with a Pair
+** Summary **
+Board: [4d 9c 6d 7s 3h], Players: 6, Pots: 1, Total: 59975, Rake: 0, End: Showdown
+Seat 2: JoeyCericola (-29900) [Qd Ks] Showdown with High Card King +Q976
+Seat 3: Briancon (+30075) [9h As] Showdown with a Pair of Nines +A76
+Seat 4: KMAG (-25) [2d Th] Folded on PreFlop
+Seat 5: sSs (-25) [5h 5s] Folded on PreFlop
+Seat 7: lmora (-125) [4h Jd] Folded on PreFlop
+
+Hand #12685-9 - 2020-09-22 19:39:48
+Game: NL Hold'em (0+0) - Blinds 100/200 Ante 25
+Site: Give Online Poker
+Table: 0 - TD - Test Tournament - Table 2
+Seat 2: JoeyCericola (471340)
+Seat 3: Briancon (59975)
+Seat 4: KMAG (19595) - sitting out
+Seat 5: sSs (19575) - sitting out
+Seat 6: Steve (29900)
+Seat 7: lmora (19545) - sitting out
+lmora has the dealer button
+JoeyCericola posts ante 25
+Briancon posts ante 25
+KMAG posts ante 25
+sSs posts ante 25
+Steve posts ante 25
+lmora posts ante 25
+JoeyCericola posts small blind 100
+Briancon posts big blind 200
+** Hole Cards ** [6 players]
+KMAG folds
+sSs folds
+Steve folds
+lmora folds
+JoeyCericola raises to 471315 (All-in)
+Briancon folds
+JoeyCericola refunded 471115
+JoeyCericola wins Pot (550)
+** Summary **
+Board: [], Players: 6, Pots: 1, Total: 550, Rake: 0, End: PreFlop
+Seat 2: JoeyCericola (+325) [7d Qd] Won without Showdown
+Seat 3: Briancon (-225) [4d 2h] Folded on PreFlop
+Seat 4: KMAG (-25) [5c Ad] Folded on PreFlop
+Seat 5: sSs (-25) [Qc 9s] Folded on PreFlop
+Seat 6: Steve (-25) [Qs 2c] Folded on PreFlop
+Seat 7: lmora (-25) [7h As] Folded on PreFlop
+
+Hand #12686-10 - 2020-09-22 19:40:12
+Game: NL Hold'em (0+0) - Blinds 100/200 Ante 25
+Site: Give Online Poker
+Table: 0 - TD - Test Tournament - Table 2
+Seat 2: JoeyCericola (471665)
+Seat 3: Briancon (59750)
+Seat 4: KMAG (19570) - sitting out
+Seat 5: sSs (19550) - sitting out
+Seat 6: Steve (29875)
+Seat 7: lmora (19520) - sitting out
+JoeyCericola has the dealer button
+JoeyCericola posts ante 25
+Briancon posts ante 25
+KMAG posts ante 25
+sSs posts ante 25
+Steve posts ante 25
+lmora posts ante 25
+Briancon posts small blind 100
+KMAG posts big blind 200
+** Hole Cards ** [6 players]
+sSs folds
+Steve raises to 7800
+lmora folds
+JoeyCericola raises to 471640 (All-in)
+Briancon calls 59625 (All-in)
+KMAG folds
+Steve calls 22050 (All-in)
+JoeyCericola refunded 411915
+** Flop ** [7h 5s 7s]
+** Turn ** [Js]
+** River ** [6d]
+** Side Pot 1 Show Down ** [7h 5s 7s Js 6d]
+JoeyCericola shows [Kh Qc] (a Pair of Sevens +KQJ)
+Briancon shows [3h 6h] (Two Pair, Sevens and Sixes +J)
+Briancon wins Side Pot 1 (59750) with Two Pair
+** Main Pot Show Down ** [7h 5s 7s Js 6d]
+Steve shows [2h 2s] (Two Pair, Sevens and Deuces +J)
+Briancon wins Main Pot (89900) with Two Pair
+Steve finishes tournament in place #13
+** Summary **
+Board: [7h 5s 7s Js 6d], Players: 6, Pots: 2, Total: 149650, Rake: 0, End: Showdown
+Seat 2: JoeyCericola (-59750) [Kh Qc] Showdown with a Pair of Sevens +KQJ
+Seat 3: Briancon (+89900) [3h 6h] Showdown with Two Pair, Sevens and Sixes +J
+Seat 4: KMAG (-225) [Ac Jd] Folded on PreFlop
+Seat 5: sSs (-25) [Jh Ah] Folded on PreFlop
+Seat 6: Steve (-29875) [2h 2s] Showdown with Two Pair, Sevens and Deuces +J
+Seat 7: lmora (-25) [2d Qd] Folded on PreFlop
+
+Hand #12687-11 - 2020-09-22 19:41:05
+Game: NL Hold'em (0+0) - Blinds 200/400 Ante 25
+Site: Give Online Poker
+Table: 0 - TD - Test Tournament - Table 2
+Seat 2: JoeyCericola (411915)
+Seat 3: Briancon (149650)
+Seat 4: KMAG (19345) - sitting out
+Seat 5: sSs (19525) - sitting out
+Seat 7: lmora (19495) - sitting out
+Briancon has the dealer button
+JoeyCericola posts ante 25
+Briancon posts ante 25
+KMAG posts ante 25
+sSs posts ante 25
+lmora posts ante 25
+KMAG posts small blind 200
+sSs posts big blind 400
+** Hole Cards ** [5 players]
+lmora folds
+JoeyCericola raises to 411890 (All-in)
+Briancon folds
+KMAG folds
+sSs folds
+JoeyCericola refunded 411490
+JoeyCericola wins Pot (1125)
+** Summary **
+Board: [], Players: 5, Pots: 1, Total: 1125, Rake: 0, End: PreFlop
+Seat 2: JoeyCericola (+700) [2s 3d] Won without Showdown
+Seat 3: Briancon (-25) [5c Jh] Folded on PreFlop
+Seat 4: KMAG (-225) [Ac Tc] Folded on PreFlop
+Seat 5: sSs (-425) [7d 6c] Folded on PreFlop
+Seat 7: lmora (-25) [Jc 4d] Folded on PreFlop
+
+Hand #12688-12 - 2020-09-22 19:41:18
+Game: NL Hold'em (0+0) - Blinds 300/600 Ante 50
+Site: Give Online Poker
+Table: 0 - TD - Test Tournament - Table 2
+Seat 2: JoeyCericola (412615)
+Seat 3: Briancon (149625)
+Seat 4: KMAG (19120) - sitting out
+Seat 5: sSs (19100) - sitting out
+Seat 7: lmora (19470) - sitting out
+KMAG has the dealer button
+JoeyCericola posts ante 50
+Briancon posts ante 50
+KMAG posts ante 50
+sSs posts ante 50
+lmora posts ante 50
+sSs posts small blind 300
+lmora posts big blind 600
+** Hole Cards ** [5 players]
+JoeyCericola raises to 412565 (All-in)
+Briancon folds
+KMAG folds
+sSs folds
+lmora folds
+JoeyCericola refunded 411965
+JoeyCericola wins Pot (1750)
+** Summary **
+Board: [], Players: 5, Pots: 1, Total: 1750, Rake: 0, End: PreFlop
+Seat 2: JoeyCericola (+1100) [Tc Jd] Won without Showdown
+Seat 3: Briancon (-50) [Qd 3s] Folded on PreFlop
+Seat 4: KMAG (-50) [Ah Ad] Folded on PreFlop
+Seat 5: sSs (-350) [8s As] Folded on PreFlop
+Seat 7: lmora (-650) [Js Jh] Folded on PreFlop
+
+Hand #12690-13 - 2020-09-22 19:41:33
+Game: NL Hold'em (0+0) - Blinds 300/600 Ante 50
+Site: Give Online Poker
+Table: 0 - TD - Test Tournament - Table 2
+Seat 2: JoeyCericola (413715)
+Seat 3: Briancon (149575)
+Seat 4: KMAG (19070) - sitting out
+Seat 5: sSs (18750) - sitting out
+Seat 7: lmora (18820) - sitting out
+sSs has the dealer button
+JoeyCericola posts ante 50
+Briancon posts ante 50
+KMAG posts ante 50
+sSs posts ante 50
+lmora posts ante 50
+lmora posts small blind 300
+JoeyCericola posts big blind 600
+** Hole Cards ** [5 players]
+Briancon calls 600
+KMAG folds
+sSs folds
+lmora folds
+JoeyCericola raises to 413665 (All-in)
+Briancon calls 148925 (All-in)
+JoeyCericola refunded 264140
+** Flop ** [9s 4h As]
+** Turn ** [Ts]
+** River ** [3h]
+** Pot Show Down ** [9s 4h As Ts 3h]
+JoeyCericola shows [5c 3d] (a Pair of Threes +AT9)
+Briancon shows [9c 9d] (Three of a Kind, Nines +AT)
+Briancon wins Pot (299600) with Three of a Kind
+** Summary **
+Board: [9s 4h As Ts 3h], Players: 5, Pots: 1, Total: 299600, Rake: 0, End: Showdown
+Seat 2: JoeyCericola (-149575) [5c 3d] Showdown with a Pair of Threes +AT9
+Seat 3: Briancon (+150025) [9c 9d] Showdown with Three of a Kind, Nines +AT
+Seat 4: KMAG (-50) [2c Ks] Folded on PreFlop
+Seat 5: sSs (-50) [Qc Jd] Folded on PreFlop
+Seat 7: lmora (-350) [Ad 8d] Folded on PreFlop
+
+Hand #12692-14 - 2020-09-22 19:41:58
+Game: NL Hold'em (0+0) - Blinds 300/600 Ante 50
+Site: Give Online Poker
+Table: 0 - TD - Test Tournament - Table 2
+Seat 2: JoeyCericola (264140)
+Seat 3: Briancon (299600)
+Seat 4: KMAG (19020) - sitting out
+Seat 5: sSs (18700) - sitting out
+Seat 7: lmora (18470) - sitting out
+lmora has the dealer button
+JoeyCericola posts ante 50
+Briancon posts ante 50
+KMAG posts ante 50
+sSs posts ante 50
+lmora posts ante 50
+JoeyCericola posts small blind 300
+Briancon posts big blind 600
+** Hole Cards ** [5 players]
+KMAG folds
+sSs folds
+lmora folds
+JoeyCericola raises to 264090 (All-in)
+Briancon folds
+JoeyCericola refunded 263490
+JoeyCericola wins Pot (1450)
+** Summary **
+Board: [], Players: 5, Pots: 1, Total: 1450, Rake: 0, End: PreFlop
+Seat 2: JoeyCericola (+800) [Ks Js] Won without Showdown
+Seat 3: Briancon (-650) [Th 3s] Folded on PreFlop
+Seat 4: KMAG (-50) [Jd Jh] Folded on PreFlop
+Seat 5: sSs (-50) [As Qh] Folded on PreFlop
+Seat 7: lmora (-50) [4d Qd] Folded on PreFlop
+
+Hand #12693-15 - 2020-09-22 19:42:12
+Game: NL Hold'em (0+0) - Blinds 300/600 Ante 50
+Site: Give Online Poker
+Table: 0 - TD - Test Tournament - Table 2
+Seat 2: JoeyCericola (264940)
+Seat 3: Briancon (298950)
+Seat 4: KMAG (18970) - sitting out
+Seat 5: sSs (18650) - sitting out
+Seat 7: lmora (18420) - sitting out
+JoeyCericola has the dealer button
+JoeyCericola posts ante 50
+Briancon posts ante 50
+KMAG posts ante 50
+sSs posts ante 50
+lmora posts ante 50
+Briancon posts small blind 300
+KMAG posts big blind 600
+** Hole Cards ** [5 players]
+sSs folds
+lmora folds
+JoeyCericola raises to 264890 (All-in)
+Briancon folds
+KMAG folds
+JoeyCericola refunded 264290
+JoeyCericola wins Pot (1750)
+** Summary **
+Board: [], Players: 5, Pots: 1, Total: 1750, Rake: 0, End: PreFlop
+Seat 2: JoeyCericola (+1100) [4c 2c] Won without Showdown
+Seat 3: Briancon (-350) [8d Js] Folded on PreFlop
+Seat 4: KMAG (-650) [Ts Qd] Folded on PreFlop
+Seat 5: sSs (-50) [8h 4s] Folded on PreFlop
+Seat 7: lmora (-50) [Qs 3c] Folded on PreFlop
+
+Hand #12695-16 - 2020-09-22 19:43:44
+Game: NL Hold'em (0+0) - Blinds 400/800 Ante 50
+Site: Give Online Poker
+Table: 0 - TD - Test Tournament - Table 2
+Seat 2: JoeyCericola (266040)
+Seat 3: Briancon (298600)
+Seat 4: KMAG (18320) - sitting out
+Seat 5: sSs (18600) - sitting out
+Seat 7: lmora (18370) - sitting out
+Briancon has the dealer button
+JoeyCericola posts ante 50
+Briancon posts ante 50
+KMAG posts ante 50
+sSs posts ante 50
+lmora posts ante 50
+KMAG posts small blind 400
+sSs posts big blind 800
+** Hole Cards ** [5 players]
+lmora folds
+JoeyCericola raises to 265990 (All-in)
+Briancon calls 265990
+KMAG folds
+sSs folds
+** Flop ** [Td 3h 8s]
+** Turn ** [8d]
+** River ** [8h]
+** Pot Show Down ** [Td 3h 8s 8d 8h]
+JoeyCericola shows [7c 6s] (Three of a Kind, Eights +T7)
+Briancon shows [Ad 9d] (Three of a Kind, Eights +AT)
+Briancon wins Pot (533430) with Three of a Kind
+JoeyCericola finishes tournament in place #10
+** Summary **
+Board: [Td 3h 8s 8d 8h], Players: 5, Pots: 1, Total: 533430, Rake: 0, End: Showdown
+Seat 2: JoeyCericola (-266040) [7c 6s] Showdown with Three of a Kind, Eights +T7
+Seat 3: Briancon (+267390) [Ad 9d] Showdown with Three of a Kind, Eights +AT
+Seat 4: KMAG (-450) [5h 8c] Folded on PreFlop
+Seat 5: sSs (-850) [3s 7d] Folded on PreFlop
+Seat 7: lmora (-50) [5s 9c] Folded on PreFlop
+
+lmora moved to Table 3
+
+Briancon moved to Table 3
+
+KMAG moved to Table 3
+
+sSs moved to Table 3
+
+Table closed - 2020-09-22 20:04:52
+

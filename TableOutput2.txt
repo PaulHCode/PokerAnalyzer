@@ -1,0 +1,1354 @@
+﻿Briancon joins table via late registration
+ChrisLJ: "Click "Ready" in bottom right"
+Starting tournament 21
+
+Hand #12670-1 - 2020-09-22 19:28:53
+Game: NL Hold'em (0+0) - Blinds 10/20
+Site: Give Online Poker
+Table: 0 - TD - Test Tournament - Table 3
+Seat 1: Steve (20000)
+Seat 2: arefin (20000)
+Seat 3: JanuszGal (20000)
+Seat 4: msmith (20000)
+Seat 5: Scott_A (20000)
+Seat 6: fireball (20000)
+Seat 7: ChrisLJ (20000)
+Seat 8: Mallidi (20000)
+Seat 9: Briancon (20000)
+Steve has the dealer button
+arefin posts small blind 10
+JanuszGal posts big blind 20
+** Hole Cards ** [9 players]
+msmith raises to 60
+Scott_A raises to 178
+fireball calls 178
+ChrisLJ calls 178
+Mallidi calls 178
+Briancon folds
+Steve raises to 20000 (All-in)
+arefin calls 19990 (All-in)
+JanuszGal calls 19980 (All-in)
+msmith calls 19940 (All-in)
+Scott_A calls 19822 (All-in)
+fireball calls 19822 (All-in)
+ChrisLJ calls 19822 (All-in)
+Mallidi calls 19822 (All-in)
+** Flop ** [As 6c Ad]
+** Turn ** [4c]
+** River ** [2h]
+** Pot Show Down ** [As 6c Ad 4c 2h]
+Steve shows [7h Ts] (a Pair of Aces +T76)
+arefin shows [3d 9c] (a Pair of Aces +964)
+JanuszGal shows [Kh Kc] (Two Pair, Aces and Kings +6)
+msmith shows [Qs Qc] (Two Pair, Aces and Queens +6)
+Scott_A shows [6d 8c] (Two Pair, Aces and Sixes +8)
+fireball shows [5h 5d] (Two Pair, Aces and Fives +6)
+ChrisLJ shows [Ah 2c] (a Full House, Aces full of Deuces)
+Mallidi shows [9h 4s] (Two Pair, Aces and Fours +9)
+ChrisLJ wins Pot (160000) with a Full House
+Scott_A: "rigged"
+ChrisLJ: "Woot"
+Steve rebuys
+ChrisLJ: "Chip leader"
+arefin rebuys
+JanuszGal rebuys
+msmith rebuys
+Scott_A rebuys
+fireball rebuys
+Mallidi rebuys
+** Summary **
+Board: [As 6c Ad 4c 2h], Players: 9, Pots: 1, Total: 160000, Rake: 0, End: Showdown
+Seat 1: Steve (-20000) [7h Ts] Showdown with a Pair of Aces +T76
+Seat 2: arefin (-20000) [3d 9c] Showdown with a Pair of Aces +964
+Seat 3: JanuszGal (-20000) [Kh Kc] Showdown with Two Pair, Aces and Kings +6
+Seat 4: msmith (-20000) [Qs Qc] Showdown with Two Pair, Aces and Queens +6
+Seat 5: Scott_A (-20000) [6d 8c] Showdown with Two Pair, Aces and Sixes +8
+Seat 6: fireball (-20000) [5h 5d] Showdown with Two Pair, Aces and Fives +6
+Seat 7: ChrisLJ (+140000) [Ah 2c] Showdown with a Full House, Aces full of Deuces
+Seat 8: Mallidi (-20000) [9h 4s] Showdown with Two Pair, Aces and Fours +9
+Seat 9: Briancon (+0) [4d Jh] Folded on PreFlop
+
+Hand #12673-2 - 2020-09-22 19:30:37
+Game: NL Hold'em (0+0) - Blinds 15/30
+Site: Give Online Poker
+Table: 0 - TD - Test Tournament - Table 3
+Seat 1: Steve (20000)
+Seat 2: arefin (20000)
+Seat 3: JanuszGal (20000)
+Seat 4: msmith (20000)
+Seat 5: Scott_A (20000)
+Seat 6: fireball (20000)
+Seat 7: ChrisLJ (160000)
+Seat 8: Mallidi (20000)
+Seat 9: Briancon (20000)
+arefin has the dealer button
+JanuszGal posts small blind 15
+msmith posts big blind 30
+** Hole Cards ** [9 players]
+Scott_A calls 30
+fireball has timed out
+fireball folds
+ChrisLJ calls 30
+Mallidi calls 30
+Briancon calls 30
+Steve calls 30
+arefin raises to 20000 (All-in)
+JanuszGal calls 19985 (All-in)
+msmith calls 19970 (All-in)
+Scott_A calls 19970 (All-in)
+ChrisLJ raises to 160000 (All-in)
+Mallidi folds
+Briancon calls 19970 (All-in)
+Steve calls 19970 (All-in)
+ChrisLJ refunded 140000
+** Flop ** [6h 5d Jh]
+** Turn ** [Tc]
+** River ** [Ac]
+** Pot Show Down ** [6h 5d Jh Tc Ac]
+Steve shows [Qh 7s] (High Card Ace +QJT7)
+arefin shows [Jc 6s] (Two Pair, Jacks and Sixes +A)
+JanuszGal shows [7c 7d] (a Pair of Sevens +AJT)
+msmith shows [2h Ah] (a Pair of Aces +JT6)
+Scott_A shows [Qd 9s] (High Card Ace +QJT9)
+ChrisLJ shows [Qs Td] (a Pair of Tens +AQJ)
+Briancon shows [Kc 9c] (High Card Ace +KJT9)
+arefin wins Pot (140030) with Two Pair
+Steve rebuys
+Briancon rebuys
+Scott_A finishes tournament in place #23
+msmith finishes tournament in place #22
+JanuszGal finishes tournament in place #21
+** Summary **
+Board: [6h 5d Jh Tc Ac], Players: 9, Pots: 1, Total: 140030, Rake: 0, End: Showdown
+Seat 1: Steve (-20000) [Qh 7s] Showdown with High Card Ace +QJT7
+Seat 2: arefin (+120030) [Jc 6s] Showdown with Two Pair, Jacks and Sixes +A
+Seat 3: JanuszGal (-20000) [7c 7d] Showdown with a Pair of Sevens +AJT
+Seat 4: msmith (-20000) [2h Ah] Showdown with a Pair of Aces +JT6
+Seat 5: Scott_A (-20000) [Qd 9s] Showdown with High Card Ace +QJT9
+Seat 6: fireball (+0) [7h Qc] Folded on PreFlop
+Seat 7: ChrisLJ (-20000) [Qs Td] Showdown with a Pair of Tens +AQJ
+Seat 8: Mallidi (-30) [3h 4d] Folded on PreFlop
+Seat 9: Briancon (-20000) [Kc 9c] Showdown with High Card Ace +KJT9
+
+Steve buys add-on
+ChrisLJ buys add-on
+Briancon buys add-on
+Mallidi buys add-on
+RamX moved from Table 2
+Hand #12677-3 - 2020-09-22 19:34:14
+Game: NL Hold'em (0+0) - Blinds 50/100
+Site: Give Online Poker
+Table: 0 - TD - Test Tournament - Table 3
+Seat 1: Steve (30000)
+Seat 2: arefin (140030)
+Seat 5: RamX (100020) - sitting out
+Seat 6: fireball (20000)
+Seat 7: ChrisLJ (150000)
+Seat 8: Mallidi (29970)
+Seat 9: Briancon (30000)
+fireball has the dealer button
+ChrisLJ posts small blind 50
+Mallidi posts big blind 100
+** Hole Cards ** [7 players]
+Briancon calls 100
+Steve calls 100
+SriCh moved from Table 1
+kevrio moved from Table 1
+arefin has timed out
+arefin folds
+RamX folds
+fireball folds
+ChrisLJ calls 50
+Mallidi checks
+** Flop ** [Ah 4s 2h]
+ChrisLJ checks
+Mallidi checks
+Briancon checks
+Steve folds
+** Turn ** [6h]
+ChrisLJ checks
+Mallidi checks
+Briancon checks
+** River ** [3c]
+ChrisLJ checks
+Mallidi checks
+Briancon checks
+** Pot Show Down ** [Ah 4s 2h 6h 3c]
+ChrisLJ shows [8c Qc] (High Card Ace +Q864)
+Mallidi shows [7s 5s] (a Straight, Three to Seven)
+Briancon shows [Jd Jh] (a Pair of Jacks +A64)
+Mallidi wins Pot (400) with a Straight
+** Summary **
+Board: [Ah 4s 2h 6h 3c], Players: 7, Pots: 1, Total: 400, Rake: 0, End: Showdown
+Seat 1: Steve (-100) [Ts 6c] Folded on Flop
+Seat 2: arefin (+0) [5d 7d] Folded on PreFlop
+Seat 5: RamX (+0) [5c 3h] Folded on PreFlop
+Seat 6: fireball (+0) [7c 4d] Folded on PreFlop
+Seat 7: ChrisLJ (-100) [8c Qc] Showdown with High Card Ace +Q864
+Seat 8: Mallidi (+300) [7s 5s] Showdown with a Straight, Three to Seven
+Seat 9: Briancon (-100) [Jd Jh] Showdown with a Pair of Jacks +A64
+
+Briancon moved to Table 2
+
+Steve moved to Table 2
+
+Hand #12682-4 - 2020-09-22 19:37:11
+Game: NL Hold'em (0+0) - Blinds 100/200
+Site: Give Online Poker
+Table: 0 - TD - Test Tournament - Table 3
+Seat 2: arefin (140030) - sitting out
+Seat 3: SriCh (139950)
+Seat 4: kevrio (29900)
+Seat 5: RamX (100020) - sitting out
+Seat 6: fireball (20000)
+Seat 7: ChrisLJ (149900)
+Seat 8: Mallidi (30270)
+ChrisLJ has the dealer button
+Mallidi posts small blind 100
+arefin posts big blind 200
+** Hole Cards ** [7 players]
+SriCh calls 200
+kevrio calls 200
+RamX folds
+fireball calls 200
+ChrisLJ folds
+Mallidi raises to 1200
+arefin folds
+SriCh calls 1000
+kevrio calls 1000
+fireball raises to 20000 (All-in)
+Mallidi raises to 30270 (All-in)
+SriCh calls 29070
+kevrio folds
+** Flop ** [6c Td Ts]
+** Turn ** [Ad]
+** River ** [6h]
+** Side Pot 1 Show Down ** [6c Td Ts Ad 6h]
+SriCh shows [4s 5d] (Two Pair, Tens and Sixes +A)
+Mallidi shows [Kd Qd] (Two Pair, Tens and Sixes +A)
+SriCh splits Side Pot 1 (10270) with Two Pair
+Mallidi splits Side Pot 1 (10270) with Two Pair
+** Main Pot Show Down ** [6c Td Ts Ad 6h]
+fireball shows [Jh 9h] (Two Pair, Tens and Sixes +A)
+SriCh splits Main Pot (20467) with Two Pair
+fireball splits Main Pot (20466) with Two Pair
+Mallidi splits Main Pot (20467) with Two Pair
+** Summary **
+Board: [6c Td Ts Ad 6h], Players: 7, Pots: 2, Total: 81940, Rake: 0, End: Showdown
+Seat 2: arefin (-200) [2s Ah] Folded on PreFlop
+Seat 3: SriCh (+467) [4s 5d] Showdown with Two Pair, Tens and Sixes +A
+Seat 4: kevrio (-1200) [7s Ks] Folded on PreFlop
+Seat 5: RamX (+0) [4c 4h] Folded on PreFlop
+Seat 6: fireball (+466) [Jh 9h] Showdown with Two Pair, Tens and Sixes +A
+Seat 7: ChrisLJ (+0) [Jd 7h] Folded on PreFlop
+Seat 8: Mallidi (+467) [Kd Qd] Showdown with Two Pair, Tens and Sixes +A
+
+msmith: "Observer Chat"
+Hand #12683-5 - 2020-09-22 19:39:16
+Game: NL Hold'em (0+0) - Blinds 100/200 Ante 25
+Site: Give Online Poker
+Table: 0 - TD - Test Tournament - Table 3
+Seat 2: arefin (139830) - sitting out
+Seat 3: SriCh (140417)
+Seat 4: kevrio (28700)
+Seat 5: RamX (100020) - sitting out
+Seat 6: fireball (20466)
+Seat 7: ChrisLJ (149900)
+Seat 8: Mallidi (30737)
+Mallidi has the dealer button
+arefin posts ante 25
+SriCh posts ante 25
+kevrio posts ante 25
+RamX posts ante 25
+fireball posts ante 25
+ChrisLJ posts ante 25
+Mallidi posts ante 25
+arefin posts small blind 100
+SriCh posts big blind 200
+** Hole Cards ** [7 players]
+kevrio calls 200
+RamX folds
+fireball calls 200
+ChrisLJ has timed out
+ChrisLJ folds
+Mallidi raises to 1275
+arefin folds
+SriCh folds
+kevrio calls 1075
+fireball calls 1075
+** Flop ** [6d 6s 9h]
+kevrio checks
+fireball checks
+Mallidi bets 4300
+kevrio calls 4300
+fireball calls 4300
+** Turn ** [4c]
+kevrio bets 5400
+fireball folds
+Mallidi calls 5400
+** River ** [Qs]
+kevrio bets 10800
+Mallidi raises to 19737 (All-in)
+kevrio calls 6900 (All-in)
+Mallidi refunded 2037
+** Pot Show Down ** [6d 6s 9h 4c Qs]
+kevrio shows [6h 9d] (a Full House, Sixes full of Nines)
+Mallidi shows [Qd Qc] (a Full House, Queens full of Sixes)
+Mallidi wins Pot (63400) with a Full House
+kevrio finishes tournament in place #12
+** Summary **
+Board: [6d 6s 9h 4c Qs], Players: 7, Pots: 1, Total: 63400, Rake: 0, End: Showdown
+Seat 2: arefin (-125) [7s 2d] Folded on PreFlop
+Seat 3: SriCh (-225) [8h 3c] Folded on PreFlop
+Seat 4: kevrio (-28700) [6h 9d] Showdown with a Full House, Sixes full of Nines
+Seat 5: RamX (-25) [Jd Ad] Folded on PreFlop
+Seat 6: fireball (-5600) [As 7d] Folded on Turn
+Seat 7: ChrisLJ (-25) [Ks Jc] Folded on PreFlop
+Seat 8: Mallidi (+34700) [Qd Qc] Showdown with a Full House, Queens full of Sixes
+
+Hand #12689-6 - 2020-09-22 19:41:24
+Game: NL Hold'em (0+0) - Blinds 300/600 Ante 50
+Site: Give Online Poker
+Table: 0 - TD - Test Tournament - Table 3
+Seat 2: arefin (139705) - sitting out
+Seat 3: SriCh (140192)
+Seat 5: RamX (99995) - sitting out
+Seat 6: fireball (14866)
+Seat 7: ChrisLJ (149875)
+Seat 8: Mallidi (65437)
+arefin has the dealer button
+arefin posts ante 50
+SriCh posts ante 50
+RamX posts ante 50
+fireball posts ante 50
+ChrisLJ posts ante 50
+Mallidi posts ante 50
+SriCh posts small blind 300
+RamX posts big blind 600
+** Hole Cards ** [6 players]
+fireball raises to 14816 (All-in)
+ChrisLJ folds
+Mallidi folds
+arefin folds
+SriCh calls 14516
+RamX folds
+** Flop ** [6c 6d 9s]
+** Turn ** [Qd]
+** River ** [8c]
+** Pot Show Down ** [6c 6d 9s Qd 8c]
+SriCh shows [2h 5h] (a Pair of Sixes +Q98)
+fireball shows [5s Jd] (a Pair of Sixes +QJ9)
+fireball wins Pot (30532) with a Pair
+** Summary **
+Board: [6c 6d 9s Qd 8c], Players: 6, Pots: 1, Total: 30532, Rake: 0, End: Showdown
+Seat 2: arefin (-50) [3d 7c] Folded on PreFlop
+Seat 3: SriCh (-14866) [2h 5h] Showdown with a Pair of Sixes +Q98
+Seat 5: RamX (-650) [3c Ts] Folded on PreFlop
+Seat 6: fireball (+15666) [5s Jd] Showdown with a Pair of Sixes +QJ9
+Seat 7: ChrisLJ (-50) [3h Ac] Folded on PreFlop
+Seat 8: Mallidi (-50) [4h 2d] Folded on PreFlop
+
+Hand #12691-7 - 2020-09-22 19:41:50
+Game: NL Hold'em (0+0) - Blinds 300/600 Ante 50
+Site: Give Online Poker
+Table: 0 - TD - Test Tournament - Table 3
+Seat 2: arefin (139655) - sitting out
+Seat 3: SriCh (125326)
+Seat 5: RamX (99345) - sitting out
+Seat 6: fireball (30532)
+Seat 7: ChrisLJ (149825)
+Seat 8: Mallidi (65387)
+SriCh has the dealer button
+arefin posts ante 50
+SriCh posts ante 50
+RamX posts ante 50
+fireball posts ante 50
+ChrisLJ posts ante 50
+Mallidi posts ante 50
+RamX posts small blind 300
+fireball posts big blind 600
+** Hole Cards ** [6 players]
+ChrisLJ folds
+Mallidi calls 600
+arefin folds
+SriCh calls 600
+RamX folds
+fireball checks
+** Flop ** [Ts 7c 3h]
+fireball checks
+Mallidi checks
+SriCh bets 600
+fireball calls 600
+Mallidi folds
+** Turn ** [7d]
+fireball bets 15600
+SriCh raises to 31200
+fireball calls 13682 (All-in)
+SriCh refunded 1918
+** River ** [4h]
+** Pot Show Down ** [Ts 7c 3h 7d 4h]
+SriCh shows [Tc 6s] (Two Pair, Tens and Sevens +6)
+fireball shows [5s 9d] (a Pair of Sevens +T95)
+SriCh wins Pot (62164) with Two Pair
+fireball finishes tournament in place #11
+** Summary **
+Board: [Ts 7c 3h 7d 4h], Players: 6, Pots: 1, Total: 62164, Rake: 0, End: Showdown
+Seat 2: arefin (-50) [Ad 3s] Folded on PreFlop
+Seat 3: SriCh (+31632) [Tc 6s] Showdown with Two Pair, Tens and Sevens +6
+Seat 5: RamX (-350) [Jh Ah] Folded on PreFlop
+Seat 6: fireball (-30532) [5s 9d] Showdown with a Pair of Sevens +T95
+Seat 7: ChrisLJ (-50) [4s 8h] Folded on PreFlop
+Seat 8: Mallidi (-650) [8s Qd] Folded on Flop
+
+Hand #12694-8 - 2020-09-22 19:43:44
+Game: NL Hold'em (0+0) - Blinds 400/800 Ante 50
+Site: Give Online Poker
+Table: 0 - TD - Test Tournament - Table 3
+Seat 2: arefin (139605) - sitting out
+Seat 3: SriCh (156958)
+Seat 5: RamX (98995) - sitting out
+Seat 7: ChrisLJ (149775)
+Seat 8: Mallidi (64737)
+RamX has the dealer button
+arefin posts ante 50
+SriCh posts ante 50
+RamX posts ante 50
+ChrisLJ posts ante 50
+Mallidi posts ante 50
+ChrisLJ posts small blind 400
+Mallidi posts big blind 800
+** Hole Cards ** [5 players]
+arefin folds
+lmora moved from Table 2
+Briancon moved from Table 2
+KMAG moved from Table 2
+sSs moved from Table 2
+SriCh has timed out
+SriCh folds
+RamX folds
+ChrisLJ calls 400
+Mallidi raises to 3200
+ChrisLJ calls 2400
+** Flop ** [6s 5s 5h]
+ChrisLJ checks
+Mallidi bets 3325
+ChrisLJ folds
+Mallidi refunded 3325
+Mallidi wins Pot (6650)
+** Summary **
+Board: [6s 5s 5h], Players: 5, Pots: 1, Total: 6650, Rake: 0, End: Flop
+Seat 2: arefin (-50) [6d Th] Folded on PreFlop
+Seat 3: SriCh (-50) [Qd 3c] Folded on PreFlop
+Seat 5: RamX (-50) [Ah 4h] Folded on PreFlop
+Seat 7: ChrisLJ (-3250) [7h Qc] Folded on Flop
+Seat 8: Mallidi (+3400) [Ac 6c] Won without Showdown
+
+Hand #12696-9 - 2020-09-22 19:45:21
+Game: NL Hold'em (0+0) - Blinds 600/1200 Ante 75
+Site: Give Online Poker
+Table: 0 - TD - Test Tournament - Table 3
+Seat 1: sSs (17750)
+Seat 2: arefin (139555) - sitting out
+Seat 3: SriCh (156908)
+Seat 4: lmora (18320) - sitting out
+Seat 5: RamX (98945) - sitting out
+Seat 6: Briancon (565990)
+Seat 7: ChrisLJ (146525)
+Seat 8: Mallidi (68137)
+Seat 9: KMAG (17870) - sitting out
+ChrisLJ has the dealer button
+sSs posts ante 75
+arefin posts ante 75
+SriCh posts ante 75
+lmora posts ante 75
+RamX posts ante 75
+Briancon posts ante 75
+ChrisLJ posts ante 75
+Mallidi posts ante 75
+KMAG posts ante 75
+Mallidi posts small blind 600
+KMAG posts big blind 1200
+** Hole Cards ** [9 players]
+sSs calls 1200
+arefin folds
+SriCh calls 1200
+lmora folds
+RamX folds
+Briancon calls 1200
+ChrisLJ raises to 146450 (All-in)
+Mallidi folds
+KMAG folds
+sSs calls 16475 (All-in)
+SriCh folds
+Briancon calls 145250
+** Flop ** [5s 3d 7d]
+** Turn ** [Ad]
+** River ** [Th]
+** Side Pot 1 Show Down ** [5s 3d 7d Ad Th]
+Briancon shows [Kc Qd] (High Card Ace +KQT7)
+ChrisLJ shows [9s 9d] (a Pair of Nines +AT7)
+ChrisLJ wins Side Pot 1 (257550) with a Pair
+** Main Pot Show Down ** [5s 3d 7d Ad Th]
+sSs shows [4h 9c] (High Card Ace +T975)
+ChrisLJ wins Main Pot (56700) with a Pair
+sSs finishes tournament in place #9
+** Summary **
+Board: [5s 3d 7d Ad Th], Players: 9, Pots: 2, Total: 314250, Rake: 0, End: Showdown
+Seat 1: sSs (-17750) [4h 9c] Showdown with High Card Ace +T975
+Seat 2: arefin (-75) [Qc 2c] Folded on PreFlop
+Seat 3: SriCh (-1275) [5d Js] Folded on PreFlop
+Seat 4: lmora (-75) [3c Tc] Folded on PreFlop
+Seat 5: RamX (-75) [Ah Jc] Folded on PreFlop
+Seat 6: Briancon (-146525) [Kc Qd] Showdown with High Card Ace +KQT7
+Seat 7: ChrisLJ (+167725) [9s 9d] Showdown with a Pair of Nines +AT7
+Seat 8: Mallidi (-675) [Jh 4s] Folded on PreFlop
+Seat 9: KMAG (-1275) [Ks 2d] Folded on PreFlop
+
+Hand #12697-10 - 2020-09-22 19:46:31
+Game: NL Hold'em (0+0) - Blinds 800/1600 Ante 75
+Site: Give Online Poker
+Table: 0 - TD - Test Tournament - Table 3
+Seat 2: arefin (139480) - sitting out
+Seat 3: SriCh (155633)
+Seat 4: lmora (18245) - sitting out
+Seat 5: RamX (98870) - sitting out
+Seat 6: Briancon (419465)
+Seat 7: ChrisLJ (314250)
+Seat 8: Mallidi (67462)
+Seat 9: KMAG (16595) - sitting out
+Mallidi has the dealer button
+arefin posts ante 75
+SriCh posts ante 75
+lmora posts ante 75
+RamX posts ante 75
+Briancon posts ante 75
+ChrisLJ posts ante 75
+Mallidi posts ante 75
+KMAG posts ante 75
+KMAG posts small blind 800
+arefin posts big blind 1600
+** Hole Cards ** [8 players]
+SriCh calls 1600
+lmora folds
+RamX folds
+Briancon folds
+ChrisLJ calls 1600
+Mallidi calls 1600
+KMAG folds
+arefin folds
+** Flop ** [3s 8c Kd]
+SriCh checks
+ChrisLJ checks
+Mallidi checks
+** Turn ** [Qc]
+SriCh checks
+ChrisLJ checks
+Mallidi checks
+** River ** [7d]
+SriCh checks
+ChrisLJ checks
+Mallidi checks
+** Pot Show Down ** [3s 8c Kd Qc 7d]
+SriCh shows [2d 4s] (High Card King +Q874)
+ChrisLJ shows [8d 9s] (a Pair of Eights +KQ9)
+Mallidi shows [6c 7h] (a Pair of Sevens +KQ8)
+ChrisLJ wins Pot (7800) with a Pair
+** Summary **
+Board: [3s 8c Kd Qc 7d], Players: 8, Pots: 1, Total: 7800, Rake: 0, End: Showdown
+Seat 2: arefin (-1675) [6h Ad] Folded on PreFlop
+Seat 3: SriCh (-1675) [2d 4s] Showdown with High Card King +Q874
+Seat 4: lmora (-75) [Jc Ac] Folded on PreFlop
+Seat 5: RamX (-75) [5s 3c] Folded on PreFlop
+Seat 6: Briancon (-75) [4c 6d] Folded on PreFlop
+Seat 7: ChrisLJ (+6125) [8d 9s] Showdown with a Pair of Eights +KQ9
+Seat 8: Mallidi (-1675) [6c 7h] Showdown with a Pair of Sevens +KQ8
+Seat 9: KMAG (-875) [7c Ts] Folded on PreFlop
+
+Hand #12698-11 - 2020-09-22 19:48:27
+Game: NL Hold'em (0+0) - Blinds 1000/2000 Ante 100
+Site: Give Online Poker
+Table: 0 - TD - Test Tournament - Table 3
+Seat 2: arefin (137805) - sitting out
+Seat 3: SriCh (153958)
+Seat 4: lmora (18170) - sitting out
+Seat 5: RamX (98795) - sitting out
+Seat 6: Briancon (419390)
+Seat 7: ChrisLJ (320375)
+Seat 8: Mallidi (65787)
+Seat 9: KMAG (15720) - sitting out
+KMAG has the dealer button
+arefin posts ante 100
+SriCh posts ante 100
+lmora posts ante 100
+RamX posts ante 100
+Briancon posts ante 100
+ChrisLJ posts ante 100
+Mallidi posts ante 100
+KMAG posts ante 100
+arefin posts small blind 1000
+SriCh posts big blind 2000
+** Hole Cards ** [8 players]
+lmora folds
+RamX folds
+Briancon folds
+ChrisLJ calls 2000
+Mallidi folds
+KMAG folds
+arefin folds
+SriCh raises to 4000
+ChrisLJ has timed out
+ChrisLJ folds
+SriCh refunded 2000
+SriCh wins Pot (5800)
+** Summary **
+Board: [], Players: 8, Pots: 1, Total: 5800, Rake: 0, End: PreFlop
+Seat 2: arefin (-1100) [8h 3c] Folded on PreFlop
+Seat 3: SriCh (+3700) [9c Kc] Won without Showdown
+Seat 4: lmora (-100) [9d 9s] Folded on PreFlop
+Seat 5: RamX (-100) [Td Qc] Folded on PreFlop
+Seat 6: Briancon (-100) [7d 2h] Folded on PreFlop
+Seat 7: ChrisLJ (-2100) [2d Kd] Folded on PreFlop
+Seat 8: Mallidi (-100) [5h Qd] Folded on PreFlop
+Seat 9: KMAG (-100) [6s Tc] Folded on PreFlop
+
+Hand #12699-12 - 2020-09-22 19:49:25
+Game: NL Hold'em (0+0) - Blinds 1000/2000 Ante 100
+Site: Give Online Poker
+Table: 0 - TD - Test Tournament - Table 3
+Seat 2: arefin (136705) - sitting out
+Seat 3: SriCh (157658)
+Seat 4: lmora (18070) - sitting out
+Seat 5: RamX (98695) - sitting out
+Seat 6: Briancon (419290)
+Seat 7: ChrisLJ (318275) - sitting out
+Seat 8: Mallidi (65687)
+Seat 9: KMAG (15620) - sitting out
+arefin has the dealer button
+arefin posts ante 100
+SriCh posts ante 100
+lmora posts ante 100
+RamX posts ante 100
+Briancon posts ante 100
+ChrisLJ posts ante 100
+Mallidi posts ante 100
+KMAG posts ante 100
+SriCh posts small blind 1000
+lmora posts big blind 2000
+** Hole Cards ** [8 players]
+RamX folds
+Briancon calls 2000
+ChrisLJ raises to 4000
+Mallidi calls 4000
+KMAG folds
+arefin folds
+SriCh raises to 38000
+lmora folds
+Briancon calls 36000
+ChrisLJ raises to 318175 (All-in)
+Mallidi folds
+SriCh calls 119558 (All-in)
+Briancon folds
+ChrisLJ refunded 160617
+** Flop ** [6s 9s 8d]
+** Turn ** [Qs]
+** River ** [Th]
+** Pot Show Down ** [6s 9s 8d Qs Th]
+SriCh shows [7c 7d] (a Straight, Six to Ten)
+ChrisLJ shows [Ks Qd] (a Pair of Queens +KT9)
+SriCh wins Pot (359916) with a Straight
+** Summary **
+Board: [6s 9s 8d Qs Th], Players: 8, Pots: 1, Total: 359916, Rake: 0, End: Showdown
+Seat 2: arefin (-100) [6h 2d] Folded on PreFlop
+Seat 3: SriCh (+202258) [7c 7d] Showdown with a Straight, Six to Ten
+Seat 4: lmora (-2100) [9d Kh] Folded on PreFlop
+Seat 5: RamX (-100) [Kd 3h] Folded on PreFlop
+Seat 6: Briancon (-38100) [5h 3d] Folded on PreFlop
+Seat 7: ChrisLJ (-157658) [Ks Qd] Showdown with a Pair of Queens +KT9
+Seat 8: Mallidi (-4100) [2s Ad] Folded on PreFlop
+Seat 9: KMAG (-100) [6d 7h] Folded on PreFlop
+
+Hand #12700-13 - 2020-09-22 19:50:38
+Game: NL Hold'em (0+0) - Blinds 2000/4000 Ante 200
+Site: Give Online Poker
+Table: 0 - TD - Test Tournament - Table 3
+Seat 2: arefin (136605) - sitting out
+Seat 3: SriCh (359916)
+Seat 4: lmora (15970) - sitting out
+Seat 5: RamX (98595) - sitting out
+Seat 6: Briancon (381190)
+Seat 7: ChrisLJ (160617)
+Seat 8: Mallidi (61587)
+Seat 9: KMAG (15520) - sitting out
+SriCh has the dealer button
+arefin posts ante 200
+SriCh posts ante 200
+lmora posts ante 200
+RamX posts ante 200
+Briancon posts ante 200
+ChrisLJ posts ante 200
+Mallidi posts ante 200
+KMAG posts ante 200
+lmora posts small blind 2000
+RamX posts big blind 4000
+** Hole Cards ** [8 players]
+Briancon folds
+ChrisLJ calls 4000
+Mallidi folds
+KMAG folds
+arefin folds
+SriCh calls 4000
+lmora folds
+RamX folds
+** Flop ** [4h Qd Jc]
+ChrisLJ checks
+SriCh checks
+** Turn ** [8c]
+ChrisLJ checks
+SriCh bets 4000
+ChrisLJ folds
+SriCh refunded 4000
+SriCh wins Pot (15600)
+** Summary **
+Board: [4h Qd Jc 8c], Players: 8, Pots: 1, Total: 15600, Rake: 0, End: Turn
+Seat 2: arefin (-200) [Ks Qh] Folded on PreFlop
+Seat 3: SriCh (+11400) [9c 8h] Won without Showdown
+Seat 4: lmora (-2200) [8s Jd] Folded on PreFlop
+Seat 5: RamX (-4200) [Kd As] Folded on PreFlop
+Seat 6: Briancon (-200) [9d 3h] Folded on PreFlop
+Seat 7: ChrisLJ (-4200) [Ac 5d] Folded on Turn
+Seat 8: Mallidi (-200) [4d 8d] Folded on PreFlop
+Seat 9: KMAG (-200) [Ad 3s] Folded on PreFlop
+
+Hand #12701-14 - 2020-09-22 19:52:38
+Game: NL Hold'em (0+0) - Blinds 3000/6000 Ante 300
+Site: Give Online Poker
+Table: 0 - TD - Test Tournament - Table 3
+Seat 2: arefin (136405) - sitting out
+Seat 3: SriCh (371316)
+Seat 4: lmora (13770) - sitting out
+Seat 5: RamX (94395) - sitting out
+Seat 6: Briancon (380990)
+Seat 7: ChrisLJ (156417)
+Seat 8: Mallidi (61387)
+Seat 9: KMAG (15320) - sitting out
+lmora has the dealer button
+arefin posts ante 300
+SriCh posts ante 300
+lmora posts ante 300
+RamX posts ante 300
+Briancon posts ante 300
+ChrisLJ posts ante 300
+Mallidi posts ante 300
+KMAG posts ante 300
+RamX posts small blind 3000
+Briancon posts big blind 6000
+** Hole Cards ** [8 players]
+ChrisLJ calls 6000
+Mallidi calls 6000
+KMAG folds
+arefin folds
+SriCh calls 6000
+lmora folds
+RamX folds
+Briancon raises to 380690 (All-in)
+ChrisLJ calls 150117 (All-in)
+Mallidi folds
+SriCh folds
+Briancon refunded 224573
+** Flop ** [4c 7h 3d]
+** Turn ** [Ks]
+** River ** [Ah]
+** Pot Show Down ** [4c 7h 3d Ks Ah]
+Briancon shows [Kh Qh] (a Pair of Kings +AQ7)
+ChrisLJ shows [6c As] (a Pair of Aces +K76)
+ChrisLJ wins Pot (329634) with a Pair
+** Summary **
+Board: [4c 7h 3d Ks Ah], Players: 8, Pots: 1, Total: 329634, Rake: 0, End: Showdown
+Seat 2: arefin (-300) [5s Qd] Folded on PreFlop
+Seat 3: SriCh (-6300) [8s Tc] Folded on PreFlop
+Seat 4: lmora (-300) [Th 4h] Folded on PreFlop
+Seat 5: RamX (-3300) [2d Ts] Folded on PreFlop
+Seat 6: Briancon (-156417) [Kh Qh] Showdown with a Pair of Kings +AQ7
+Seat 7: ChrisLJ (+173217) [6c As] Showdown with a Pair of Aces +K76
+Seat 8: Mallidi (-6300) [5c 5h] Folded on PreFlop
+Seat 9: KMAG (-300) [Ac 7s] Folded on PreFlop
+
+Hand #12702-15 - 2020-09-22 19:53:32
+Game: NL Hold'em (0+0) - Blinds 3000/6000 Ante 300
+Site: Give Online Poker
+Table: 0 - TD - Test Tournament - Table 3
+Seat 2: arefin (136105) - sitting out
+Seat 3: SriCh (365016)
+Seat 4: lmora (13470) - sitting out
+Seat 5: RamX (91095) - sitting out
+Seat 6: Briancon (224573)
+Seat 7: ChrisLJ (329634)
+Seat 8: Mallidi (55087)
+Seat 9: KMAG (15020) - sitting out
+RamX has the dealer button
+arefin posts ante 300
+SriCh posts ante 300
+lmora posts ante 300
+RamX posts ante 300
+Briancon posts ante 300
+ChrisLJ posts ante 300
+Mallidi posts ante 300
+KMAG posts ante 300
+Briancon posts small blind 3000
+ChrisLJ posts big blind 6000
+** Hole Cards ** [8 players]
+Mallidi calls 6000
+KMAG folds
+arefin folds
+SriCh calls 6000
+lmora folds
+RamX folds
+Briancon raises to 224273 (All-in)
+ChrisLJ folds
+Mallidi folds
+SriCh folds
+Briancon refunded 218273
+Briancon wins Pot (26400)
+** Summary **
+Board: [], Players: 8, Pots: 1, Total: 26400, Rake: 0, End: PreFlop
+Seat 2: arefin (-300) [5d 4d] Folded on PreFlop
+Seat 3: SriCh (-6300) [4h 8s] Folded on PreFlop
+Seat 4: lmora (-300) [Kc 2s] Folded on PreFlop
+Seat 5: RamX (-300) [Js Ad] Folded on PreFlop
+Seat 6: Briancon (+20100) [Kh Jc] Won without Showdown
+Seat 7: ChrisLJ (-6300) [Qh 9d] Folded on PreFlop
+Seat 8: Mallidi (-6300) [Qd Ah] Folded on PreFlop
+Seat 9: KMAG (-300) [7c 3d] Folded on PreFlop
+
+Hand #12703-16 - 2020-09-22 19:54:07
+Game: NL Hold'em (0+0) - Blinds 4000/8000 Ante 400
+Site: Give Online Poker
+Table: 0 - TD - Test Tournament - Table 3
+Seat 2: arefin (135805) - sitting out
+Seat 3: SriCh (358716)
+Seat 4: lmora (13170) - sitting out
+Seat 5: RamX (90795) - sitting out
+Seat 6: Briancon (244673)
+Seat 7: ChrisLJ (323334)
+Seat 8: Mallidi (48787)
+Seat 9: KMAG (14720) - sitting out
+Briancon has the dealer button
+arefin posts ante 400
+SriCh posts ante 400
+lmora posts ante 400
+RamX posts ante 400
+Briancon posts ante 400
+ChrisLJ posts ante 400
+Mallidi posts ante 400
+KMAG posts ante 400
+ChrisLJ posts small blind 4000
+Mallidi posts big blind 8000
+** Hole Cards ** [8 players]
+KMAG folds
+arefin folds
+SriCh calls 8000
+lmora folds
+RamX folds
+Briancon calls 8000
+ChrisLJ calls 4000
+Mallidi checks
+** Flop ** [9s Kc 6d]
+ChrisLJ checks
+Mallidi checks
+SriCh checks
+Briancon checks
+** Turn ** [7d]
+ChrisLJ checks
+Mallidi checks
+SriCh checks
+Briancon checks
+** River ** [As]
+ChrisLJ checks
+Mallidi checks
+SriCh checks
+Briancon checks
+** Pot Show Down ** [9s Kc 6d 7d As]
+SriCh shows [Ts 9c] (a Pair of Nines +AKT)
+Briancon shows [4s 3s] (High Card Ace +K976)
+ChrisLJ shows [5c 4c] (High Card Ace +K976)
+Mallidi shows [4d Jh] (High Card Ace +KJ97)
+SriCh wins Pot (35200) with a Pair
+** Summary **
+Board: [9s Kc 6d 7d As], Players: 8, Pots: 1, Total: 35200, Rake: 0, End: Showdown
+Seat 2: arefin (-400) [Kd 5s] Folded on PreFlop
+Seat 3: SriCh (+26800) [Ts 9c] Showdown with a Pair of Nines +AKT
+Seat 4: lmora (-400) [5d Ks] Folded on PreFlop
+Seat 5: RamX (-400) [Ad Jc] Folded on PreFlop
+Seat 6: Briancon (-8400) [4s 3s] Showdown with High Card Ace +K976
+Seat 7: ChrisLJ (-8400) [5c 4c] Showdown with High Card Ace +K976
+Seat 8: Mallidi (-8400) [4d Jh] Showdown with High Card Ace +KJ97
+Seat 9: KMAG (-400) [6s Jd] Folded on PreFlop
+
+Hand #12704-17 - 2020-09-22 19:55:33
+Game: NL Hold'em (0+0) - Blinds 6000/12000 Ante 600
+Site: Give Online Poker
+Table: 0 - TD - Test Tournament - Table 3
+Seat 2: arefin (135405) - sitting out
+Seat 3: SriCh (385516)
+Seat 4: lmora (12770) - sitting out
+Seat 5: RamX (90395) - sitting out
+Seat 6: Briancon (236273)
+Seat 7: ChrisLJ (314934)
+Seat 8: Mallidi (40387)
+Seat 9: KMAG (14320) - sitting out
+ChrisLJ has the dealer button
+arefin posts ante 600
+SriCh posts ante 600
+lmora posts ante 600
+RamX posts ante 600
+Briancon posts ante 600
+ChrisLJ posts ante 600
+Mallidi posts ante 600
+KMAG posts ante 600
+Mallidi posts small blind 6000
+KMAG posts big blind 12000
+** Hole Cards ** [8 players]
+arefin folds
+SriCh calls 12000
+lmora folds
+RamX folds
+Briancon raises to 235673 (All-in)
+ChrisLJ folds
+Mallidi folds
+KMAG folds
+SriCh folds
+Briancon refunded 223673
+Briancon wins Pot (46800)
+** Summary **
+Board: [], Players: 8, Pots: 1, Total: 46800, Rake: 0, End: PreFlop
+Seat 2: arefin (-600) [Js Tc] Folded on PreFlop
+Seat 3: SriCh (-12600) [4c 2d] Folded on PreFlop
+Seat 4: lmora (-600) [Qc As] Folded on PreFlop
+Seat 5: RamX (-600) [8c 8s] Folded on PreFlop
+Seat 6: Briancon (+34200) [9c Ah] Won without Showdown
+Seat 7: ChrisLJ (-600) [9d Qs] Folded on PreFlop
+Seat 8: Mallidi (-6600) [5c 7d] Folded on PreFlop
+Seat 9: KMAG (-12600) [Qh Kc] Folded on PreFlop
+
+Hand #12705-18 - 2020-09-22 19:57:00
+Game: NL Hold'em (0+0) - Blinds 8000/16000 Ante 800
+Site: Give Online Poker
+Table: 0 - TD - Test Tournament - Table 3
+Seat 2: arefin (134805) - sitting out
+Seat 3: SriCh (372916)
+Seat 4: lmora (12170) - sitting out
+Seat 5: RamX (89795) - sitting out
+Seat 6: Briancon (270473)
+Seat 7: ChrisLJ (314334)
+Seat 8: Mallidi (33787)
+Seat 9: KMAG (1720) - sitting out
+Mallidi has the dealer button
+arefin posts ante 800
+SriCh posts ante 800
+lmora posts ante 800
+RamX posts ante 800
+Briancon posts ante 800
+ChrisLJ posts ante 800
+Mallidi posts ante 800
+KMAG posts ante 800
+KMAG posts small blind 920 (All-in)
+arefin posts big blind 16000
+** Hole Cards ** [8 players]
+SriCh folds
+lmora folds
+RamX folds
+Briancon calls 16000
+ChrisLJ folds
+Mallidi folds
+KMAG folds
+arefin folds
+Briancon wins Pot (39320)
+KMAG finishes tournament in place #8
+** Summary **
+Board: [], Players: 8, Pots: 1, Total: 39320, Rake: 0, End: PreFlop
+Seat 2: arefin (-16800) [Ad 9s] Folded on PreFlop
+Seat 3: SriCh (-800) [3h 6s] Folded on PreFlop
+Seat 4: lmora (-800) [Qs As] Folded on PreFlop
+Seat 5: RamX (-800) [4h 9d] Folded on PreFlop
+Seat 6: Briancon (+22520) [Tc 8h] Won without Showdown
+Seat 7: ChrisLJ (-800) [9h 2h] Folded on PreFlop
+Seat 8: Mallidi (-800) [7s 8c] Folded on PreFlop
+Seat 9: KMAG (-1720) [2d 3d] Folded on PreFlop
+
+Hand #12706-19 - 2020-09-22 19:57:22
+Game: NL Hold'em (0+0) - Blinds 8000/16000 Ante 800
+Site: Give Online Poker
+Table: 0 - TD - Test Tournament - Table 3
+Seat 2: arefin (118005) - sitting out
+Seat 3: SriCh (372116)
+Seat 4: lmora (11370) - sitting out
+Seat 5: RamX (88995) - sitting out
+Seat 6: Briancon (292993)
+Seat 7: ChrisLJ (313534)
+Seat 8: Mallidi (32987)
+arefin has the dealer button
+arefin posts ante 800
+SriCh posts ante 800
+lmora posts ante 800
+RamX posts ante 800
+Briancon posts ante 800
+ChrisLJ posts ante 800
+Mallidi posts ante 800
+SriCh posts small blind 8000
+lmora posts big blind 10570 (All-in)
+** Hole Cards ** [7 players]
+RamX folds
+Briancon calls 16000
+ChrisLJ folds
+Mallidi calls 16000
+arefin folds
+SriCh calls 8000
+lmora folds
+** Flop ** [Jc 8d 5h]
+SriCh checks
+Briancon checks
+Mallidi checks
+** Turn ** [Qc]
+SriCh bets 16000
+Briancon calls 16000
+Mallidi calls 16000
+** River ** [4d]
+SriCh checks
+Briancon checks
+Mallidi checks
+** Pot Show Down ** [Jc 8d 5h Qc 4d]
+SriCh shows [Qh 9s] (a Pair of Queens +J98)
+Briancon shows [9c 5d] (a Pair of Fives +QJ9)
+Mallidi shows [Qd Kd] (a Pair of Queens +KJ8)
+Mallidi wins Pot (112170) with a Pair
+lmora finishes tournament in place #7
+** Summary **
+Board: [Jc 8d 5h Qc 4d], Players: 7, Pots: 1, Total: 112170, Rake: 0, End: Showdown
+Seat 2: arefin (-800) [6d 7d] Folded on PreFlop
+Seat 3: SriCh (-32800) [Qh 9s] Showdown with a Pair of Queens +J98
+Seat 4: lmora (-11370) [Td Jd] Folded on PreFlop
+Seat 5: RamX (-800) [Ad As] Folded on PreFlop
+Seat 6: Briancon (-32800) [9c 5d] Showdown with a Pair of Fives +QJ9
+Seat 7: ChrisLJ (-800) [2c 3d] Folded on PreFlop
+Seat 8: Mallidi (+79370) [Qd Kd] Showdown with a Pair of Queens +KJ8
+
+Hand #12707-20 - 2020-09-22 19:58:25
+Game: NL Hold'em (0+0) - Blinds 10000/20000 Ante 1000
+Site: Give Online Poker
+Table: 0 - TD - Test Tournament - Table 3
+Seat 2: arefin (117205) - sitting out
+Seat 3: SriCh (339316)
+Seat 5: RamX (88195) - sitting out
+Seat 6: Briancon (260193)
+Seat 7: ChrisLJ (312734)
+Seat 8: Mallidi (112357)
+SriCh has the dealer button
+arefin posts ante 1000
+SriCh posts ante 1000
+RamX posts ante 1000
+Briancon posts ante 1000
+ChrisLJ posts ante 1000
+Mallidi posts ante 1000
+RamX posts small blind 10000
+Briancon posts big blind 20000
+** Hole Cards ** [6 players]
+ChrisLJ raises to 40000
+Mallidi folds
+arefin folds
+SriCh calls 40000
+RamX folds
+Briancon raises to 259193 (All-in)
+ChrisLJ raises to 311734 (All-in)
+SriCh folds
+ChrisLJ refunded 52541
+** Flop ** [5s 5c Qd]
+** Turn ** [Ah]
+** River ** [2c]
+** Pot Show Down ** [5s 5c Qd Ah 2c]
+Briancon shows [Ac 2s] (Two Pair, Aces and Fives +Q)
+ChrisLJ shows [Js Jh] (Two Pair, Jacks and Fives +A)
+Briancon wins Pot (574386) with Two Pair
+** Summary **
+Board: [5s 5c Qd Ah 2c], Players: 6, Pots: 1, Total: 574386, Rake: 0, End: Showdown
+Seat 2: arefin (-1000) [8d 7s] Folded on PreFlop
+Seat 3: SriCh (-41000) [6h Ks] Folded on PreFlop
+Seat 5: RamX (-11000) [9h Kh] Folded on PreFlop
+Seat 6: Briancon (+314193) [Ac 2s] Showdown with Two Pair, Aces and Fives +Q
+Seat 7: ChrisLJ (-260193) [Js Jh] Showdown with Two Pair, Jacks and Fives +A
+Seat 8: Mallidi (-1000) [Td 7d] Folded on PreFlop
+
+Hand #12708-21 - 2020-09-22 19:59:18
+Game: NL Hold'em (0+0) - Blinds 15000/30000 Ante 1500
+Site: Give Online Poker
+Table: 0 - TD - Test Tournament - Table 3
+Seat 2: arefin (116205) - sitting out
+Seat 3: SriCh (298316)
+Seat 5: RamX (77195) - sitting out
+Seat 6: Briancon (574386)
+Seat 7: ChrisLJ (52541)
+Seat 8: Mallidi (111357)
+RamX has the dealer button
+arefin posts ante 1500
+SriCh posts ante 1500
+RamX posts ante 1500
+Briancon posts ante 1500
+ChrisLJ posts ante 1500
+Mallidi posts ante 1500
+Briancon posts small blind 15000
+ChrisLJ posts big blind 30000
+** Hole Cards ** [6 players]
+Mallidi folds
+arefin folds
+SriCh calls 30000
+RamX folds
+Briancon calls 15000
+ChrisLJ raises to 51041 (All-in)
+SriCh calls 21041
+Briancon calls 21041
+** Flop ** [6c 7h 7s]
+Briancon checks
+SriCh checks
+** Turn ** [4s]
+Briancon bets 30000
+SriCh calls 30000
+** River ** [As]
+Briancon bets 491845 (All-in)
+SriCh folds
+Briancon refunded 491845
+Briancon wins Side Pot 1 (60000)
+** Main Pot Show Down ** [6c 7h 7s 4s As]
+Briancon shows [8c Ac] (Two Pair, Aces and Sevens +8)
+ChrisLJ shows [Qd 9s] (a Pair of Sevens +AQ9)
+Briancon wins Main Pot (162123) with Two Pair
+ChrisLJ finishes tournament in place #6
+** Summary **
+Board: [6c 7h 7s 4s As], Players: 6, Pots: 2, Total: 222123, Rake: 0, End: Showdown
+Seat 2: arefin (-1500) [7c 3h] Folded on PreFlop
+Seat 3: SriCh (-82541) [Kd Jc] Folded on River
+Seat 5: RamX (-1500) [Ah 5c] Folded on PreFlop
+Seat 6: Briancon (+139582) [8c Ac] Showdown with Two Pair, Aces and Sevens +8
+Seat 7: ChrisLJ (-52541) [Qd 9s] Showdown with a Pair of Sevens +AQ9
+Seat 8: Mallidi (-1500) [Js 4d] Folded on PreFlop
+
+Hand #12709-22 - 2020-09-22 20:01:24
+Game: NL Hold'em (0+0) - Blinds 20000/40000 Ante 2000
+Site: Give Online Poker
+Table: 0 - TD - Test Tournament - Table 3
+Seat 2: arefin (114705) - sitting out
+Seat 3: SriCh (215775)
+Seat 5: RamX (75695) - sitting out
+Seat 6: Briancon (713968)
+Seat 8: Mallidi (109857)
+Briancon has the dealer button
+arefin posts ante 2000
+SriCh posts ante 2000
+RamX posts ante 2000
+Briancon posts ante 2000
+Mallidi posts ante 2000
+Mallidi posts small blind 20000
+arefin posts big blind 40000
+** Hole Cards ** [5 players]
+SriCh calls 40000
+RamX folds
+Briancon calls 40000
+Mallidi folds
+arefin folds
+** Flop ** [Jd Qd 7s]
+SriCh checks
+Briancon checks
+** Turn ** [Ks]
+SriCh checks
+Briancon checks
+** River ** [As]
+SriCh checks
+Briancon checks
+** Pot Show Down ** [Jd Qd 7s Ks As]
+SriCh shows [2c Kc] (a Pair of Kings +AQJ)
+Briancon shows [9d 8c] (High Card Ace +KQJ9)
+SriCh wins Pot (150000) with a Pair
+** Summary **
+Board: [Jd Qd 7s Ks As], Players: 5, Pots: 1, Total: 150000, Rake: 0, End: Showdown
+Seat 2: arefin (-42000) [7c 4d] Folded on PreFlop
+Seat 3: SriCh (+108000) [2c Kc] Showdown with a Pair of Kings +AQJ
+Seat 5: RamX (-2000) [8h Jh] Folded on PreFlop
+Seat 6: Briancon (-42000) [9d 8c] Showdown with High Card Ace +KQJ9
+Seat 8: Mallidi (-22000) [6s Jc] Folded on PreFlop
+
+Hand #12710-23 - 2020-09-22 20:02:06
+Game: NL Hold'em (0+0) - Blinds 20000/40000 Ante 2000
+Site: Give Online Poker
+Table: 0 - TD - Test Tournament - Table 3
+Seat 2: arefin (72705) - sitting out
+Seat 3: SriCh (323775)
+Seat 5: RamX (73695) - sitting out
+Seat 6: Briancon (671968)
+Seat 8: Mallidi (87857)
+Mallidi has the dealer button
+arefin posts ante 2000
+SriCh posts ante 2000
+RamX posts ante 2000
+Briancon posts ante 2000
+Mallidi posts ante 2000
+arefin posts small blind 20000
+SriCh posts big blind 40000
+** Hole Cards ** [5 players]
+RamX folds
+Briancon calls 40000
+Mallidi folds
+arefin folds
+SriCh checks
+** Flop ** [2h Ts 9s]
+SriCh checks
+Briancon bets 40000
+SriCh calls 40000
+** Turn ** [Td]
+SriCh checks
+Briancon bets 40000
+SriCh calls 40000
+** River ** [Jh]
+SriCh checks
+Briancon bets 549968 (All-in)
+SriCh folds
+Briancon refunded 549968
+Briancon wins Pot (270000)
+** Summary **
+Board: [2h Ts 9s Td Jh], Players: 5, Pots: 1, Total: 270000, Rake: 0, End: River
+Seat 2: arefin (-22000) [4s 7c] Folded on PreFlop
+Seat 3: SriCh (-122000) [As 8c] Folded on River
+Seat 5: RamX (-2000) [2s Th] Folded on PreFlop
+Seat 6: Briancon (+148000) [Jc Ad] Won without Showdown
+Seat 8: Mallidi (-2000) [5h 6d] Folded on PreFlop
+
+Hand #12711-24 - 2020-09-22 20:02:56
+Game: NL Hold'em (0+0) - Blinds 25000/50000 Ante 2500
+Site: Give Online Poker
+Table: 0 - TD - Test Tournament - Table 3
+Seat 2: arefin (50705) - sitting out
+Seat 3: SriCh (201775)
+Seat 5: RamX (71695) - sitting out
+Seat 6: Briancon (819968)
+Seat 8: Mallidi (85857)
+arefin has the dealer button
+arefin posts ante 2500
+SriCh posts ante 2500
+RamX posts ante 2500
+Briancon posts ante 2500
+Mallidi posts ante 2500
+SriCh posts small blind 25000
+RamX posts big blind 50000
+** Hole Cards ** [5 players]
+Briancon calls 50000
+Mallidi folds
+arefin folds
+SriCh calls 25000
+RamX folds
+** Flop ** [As 9c Kd]
+SriCh checks
+Briancon checks
+** Turn ** [9d]
+SriCh checks
+Briancon checks
+** River ** [Ac]
+SriCh checks
+Briancon checks
+** Pot Show Down ** [As 9c Kd 9d Ac]
+SriCh shows [4h 3d] (Two Pair, Aces and Nines +K)
+Briancon shows [6c Qd] (Two Pair, Aces and Nines +K)
+SriCh splits Pot (81250) with Two Pair
+Briancon splits Pot (81250) with Two Pair
+** Summary **
+Board: [As 9c Kd 9d Ac], Players: 5, Pots: 1, Total: 162500, Rake: 0, End: Showdown
+Seat 2: arefin (-2500) [Kc 4d] Folded on PreFlop
+Seat 3: SriCh (+28750) [4h 3d] Showdown with Two Pair, Aces and Nines +K
+Seat 5: RamX (-52500) [7c 4c] Folded on PreFlop
+Seat 6: Briancon (+28750) [6c Qd] Showdown with Two Pair, Aces and Nines +K
+Seat 8: Mallidi (-2500) [6d 8d] Folded on PreFlop
+
+Hand #12712-25 - 2020-09-22 20:03:39
+Game: NL Hold'em (0+0) - Blinds 35000/70000 Ante 3500
+Site: Give Online Poker
+Table: 0 - TD - Test Tournament - Table 3
+Seat 2: arefin (48205) - sitting out
+Seat 3: SriCh (230525)
+Seat 5: RamX (19195) - sitting out
+Seat 6: Briancon (848718)
+Seat 8: Mallidi (83357)
+SriCh has the dealer button
+arefin posts ante 3500
+SriCh posts ante 3500
+RamX posts ante 3500
+Briancon posts ante 3500
+Mallidi posts ante 3500
+RamX posts small blind 15695 (All-in)
+Briancon posts big blind 70000
+** Hole Cards ** [5 players]
+Mallidi folds
+arefin folds
+SriCh raises to 140000
+RamX folds
+Briancon calls 70000
+** Flop ** [8c Ac 5d]
+Briancon checks
+SriCh checks
+** Turn ** [5c]
+Briancon checks
+SriCh checks
+** River ** [2s]
+Briancon checks
+SriCh checks
+** Pot Show Down ** [8c Ac 5d 5c 2s]
+SriCh shows [7s Ts] (a Pair of Fives +AT8)
+Briancon shows [Qd 3h] (a Pair of Fives +AQ8)
+Briancon wins Pot (313195) with a Pair
+RamX finishes tournament in place #5
+** Summary **
+Board: [8c Ac 5d 5c 2s], Players: 5, Pots: 1, Total: 313195, Rake: 0, End: Showdown
+Seat 2: arefin (-3500) [Kh Jd] Folded on PreFlop
+Seat 3: SriCh (-143500) [7s Ts] Showdown with a Pair of Fives +AT8
+Seat 5: RamX (-19195) [4c 7h] Folded on PreFlop
+Seat 6: Briancon (+169695) [Qd 3h] Showdown with a Pair of Fives +AQ8
+Seat 8: Mallidi (-3500) [Ks 8h] Folded on PreFlop
+
+Hand #12713-26 - 2020-09-22 20:04:23
+Game: NL Hold'em (0+0) - Blinds 35000/70000 Ante 3500
+Site: Give Online Poker
+Table: 0 - TD - Test Tournament - Table 3
+Seat 2: arefin (44705) - sitting out
+Seat 3: SriCh (87025)
+Seat 6: Briancon (1018413)
+Seat 8: Mallidi (79857)
+Briancon has the dealer button
+arefin posts ante 3500
+SriCh posts ante 3500
+Briancon posts ante 3500
+Mallidi posts ante 3500
+Mallidi posts small blind 35000
+arefin posts big blind 41205 (All-in)
+** Hole Cards ** [4 players]
+SriCh raises to 83525 (All-in)
+Briancon calls 83525
+Mallidi calls 41357 (All-in)
+arefin folds
+** Flop ** [7s 2c 7d]
+** Turn ** [Kd]
+** River ** [5h]
+** Side Pot 1 Show Down ** [7s 2c 7d Kd 5h]
+SriCh shows [9s 8s] (a Pair of Sevens +K98)
+Briancon shows [7c 8d] (Three of a Kind, Sevens +K8)
+Briancon wins Side Pot 1 (14336) with Three of a Kind
+** Main Pot Show Down ** [7s 2c 7d Kd 5h]
+Mallidi shows [4c Ad] (a Pair of Sevens +AK5)
+Briancon wins Main Pot (284276) with Three of a Kind
+arefin finishes tournament in place #4
+Mallidi finishes tournament in place #3
+SriCh finishes tournament in place #2
+Briancon finishes tournament in place #1
+** Summary **
+Board: [7s 2c 7d Kd 5h], Players: 4, Pots: 2, Total: 298612, Rake: 0, End: Showdown
+Seat 2: arefin (-44705) [9c 2s] Folded on PreFlop
+Seat 3: SriCh (-87025) [9s 8s] Showdown with a Pair of Sevens +K98
+Seat 6: Briancon (+211587) [7c 8d] Showdown with Three of a Kind, Sevens +K8
+Seat 8: Mallidi (-79857) [4c Ad] Showdown with a Pair of Sevens +AK5
+
+Table closed - 2020-09-22 20:04:52
+

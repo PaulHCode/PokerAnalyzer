@@ -1,0 +1,214 @@
+﻿Starting tournament 21
+
+Hand #12669-1 - 2020-09-22 19:28:53
+Game: NL Hold'em (0+0) - Blinds 10/20
+Site: Give Online Poker
+Table: 0 - TD - Test Tournament - Table 1
+Seat 1: RyanT_NC (20000)
+Seat 3: BubbaC (20000)
+Seat 4: SteveO (20000)
+Seat 5: JoyBoy (20000)
+Seat 6: JoeyCericola (20000)
+Seat 7: kevrio (20000)
+Seat 8: sSs (20000)
+Seat 9: SriCh (20000)
+RyanT_NC has the dealer button
+BubbaC posts small blind 10
+SteveO posts big blind 20
+** Hole Cards ** [8 players]
+JoyBoy raises to 20000 (All-in)
+JoeyCericola folds
+kevrio calls 20000 (All-in)
+sSs calls 20000 (All-in)
+SriCh calls 20000 (All-in)
+RyanT_NC calls 20000 (All-in)
+BubbaC calls 19990 (All-in)
+SteveO calls 19980 (All-in)
+** Flop ** [3s 9h 5d]
+** Turn ** [5h]
+** River ** [6c]
+** Pot Show Down ** [3s 9h 5d 5h 6c]
+RyanT_NC shows [Js 9d] (Two Pair, Nines and Fives +J)
+BubbaC shows [Jd 3h] (Two Pair, Fives and Threes +J)
+SteveO shows [Kd 9s] (Two Pair, Nines and Fives +K)
+JoyBoy shows [Kh 2h] (a Pair of Fives +K96)
+kevrio shows [2d 8c] (a Pair of Fives +986)
+sSs shows [2c Qs] (a Pair of Fives +Q96)
+SriCh shows [2s 5c] (Three of a Kind, Fives +96)
+SriCh wins Pot (140000) with Three of a Kind
+RyanT_NC rebuys
+BubbaC rebuys
+SteveO rebuys
+JoyBoy rebuys
+kevrio rebuys
+sSs rebuys
+** Summary **
+Board: [3s 9h 5d 5h 6c], Players: 8, Pots: 1, Total: 140000, Rake: 0, End: Showdown
+Seat 1: RyanT_NC (-20000) [Js 9d] Showdown with Two Pair, Nines and Fives +J
+Seat 3: BubbaC (-20000) [Jd 3h] Showdown with Two Pair, Fives and Threes +J
+Seat 4: SteveO (-20000) [Kd 9s] Showdown with Two Pair, Nines and Fives +K
+Seat 5: JoyBoy (-20000) [Kh 2h] Showdown with a Pair of Fives +K96
+Seat 6: JoeyCericola (+0) [5s Jc] Folded on PreFlop
+Seat 7: kevrio (-20000) [2d 8c] Showdown with a Pair of Fives +986
+Seat 8: sSs (-20000) [2c Qs] Showdown with a Pair of Fives +Q96
+Seat 9: SriCh (+120000) [2s 5c] Showdown with Three of a Kind, Fives +96
+
+Hand #12671-2 - 2020-09-22 19:29:52
+Game: NL Hold'em (0+0) - Blinds 10/20
+Site: Give Online Poker
+Table: 0 - TD - Test Tournament - Table 1
+Seat 1: RyanT_NC (20000)
+Seat 3: BubbaC (20000)
+Seat 4: SteveO (20000)
+Seat 5: JoyBoy (20000)
+Seat 6: JoeyCericola (20000)
+Seat 7: kevrio (20000)
+Seat 8: sSs (20000)
+Seat 9: SriCh (140000)
+BubbaC has the dealer button
+SteveO posts small blind 10
+JoyBoy posts big blind 20
+** Hole Cards ** [8 players]
+JoeyCericola raises to 20000 (All-in)
+kevrio calls 20000 (All-in)
+sSs folds
+SriCh raises to 39980
+RyanT_NC calls 20000 (All-in)
+BubbaC calls 20000 (All-in)
+SteveO calls 19990 (All-in)
+JoyBoy calls 19980 (All-in)
+SriCh refunded 19980
+** Flop ** [Kc 6h Kh]
+** Turn ** [Kd]
+** River ** [2s]
+** Pot Show Down ** [Kc 6h Kh Kd 2s]
+RyanT_NC shows [Th 4d] (Three of a Kind, Kings +T6)
+BubbaC shows [8s 5d] (Three of a Kind, Kings +86)
+SteveO shows [Qh 7c] (Three of a Kind, Kings +Q7)
+JoyBoy shows [Td Ts] (a Full House, Kings full of Tens)
+JoeyCericola shows [7s As] (Three of a Kind, Kings +A7)
+kevrio shows [8h 9d] (Three of a Kind, Kings +98)
+SriCh shows [Qd Qs] (a Full House, Kings full of Queens)
+SriCh wins Pot (140000) with a Full House
+RyanT_NC rebuys
+BubbaC rebuys
+JoyBoy rebuys
+JoeyCericola rebuys
+kevrio rebuys
+SteveO finishes tournament in place #26
+** Summary **
+Board: [Kc 6h Kh Kd 2s], Players: 8, Pots: 1, Total: 140000, Rake: 0, End: Showdown
+Seat 1: RyanT_NC (-20000) [Th 4d] Showdown with Three of a Kind, Kings +T6
+Seat 3: BubbaC (-20000) [8s 5d] Showdown with Three of a Kind, Kings +86
+Seat 4: SteveO (-20000) [Qh 7c] Showdown with Three of a Kind, Kings +Q7
+Seat 5: JoyBoy (-20000) [Td Ts] Showdown with a Full House, Kings full of Tens
+Seat 6: JoeyCericola (-20000) [7s As] Showdown with Three of a Kind, Kings +A7
+Seat 7: kevrio (-20000) [8h 9d] Showdown with Three of a Kind, Kings +98
+Seat 8: sSs (+0) [3d 8c] Folded on PreFlop
+Seat 9: SriCh (+120000) [Qd Qs] Showdown with a Full House, Kings full of Queens
+
+Hand #12674-3 - 2020-09-22 19:31:34
+Game: NL Hold'em (0+0) - Blinds 25/50
+Site: Give Online Poker
+Table: 0 - TD - Test Tournament - Table 1
+Seat 1: RyanT_NC (20000)
+Seat 3: BubbaC (20000)
+Seat 5: JoyBoy (20000)
+Seat 6: JoeyCericola (20000)
+Seat 7: kevrio (20000)
+Seat 8: sSs (20000)
+Seat 9: SriCh (260000)
+JoyBoy has the dealer button
+JoeyCericola posts small blind 25
+kevrio posts big blind 50
+** Hole Cards ** [7 players]
+sSs raises to 100
+SriCh raises to 14000
+RyanT_NC folds
+BubbaC calls 14000
+JoyBoy raises to 20000 (All-in)
+JoeyCericola calls 19975 (All-in)
+kevrio folds
+sSs calls 19900 (All-in)
+SriCh calls 6000
+BubbaC calls 6000 (All-in)
+** Flop ** [6c Th Jh]
+** Turn ** [8s]
+** River ** [9c]
+** Pot Show Down ** [6c Th Jh 8s 9c]
+BubbaC shows [Kd As] (High Card Ace +KJT9)
+JoyBoy shows [4d 8c] (a Pair of Eights +JT9)
+JoeyCericola shows [7s 9d] (a Straight, Seven to Jack)
+sSs shows [2c 5c] (High Card Jack +T986)
+SriCh shows [Kc 3s] (High Card King +JT98)
+JoeyCericola wins Pot (100050) with a Straight
+JoyBoy rebuys
+sSs rebuys
+BubbaC finishes tournament in place #24
+** Summary **
+Board: [6c Th Jh 8s 9c], Players: 7, Pots: 1, Total: 100050, Rake: 0, End: Showdown
+Seat 1: RyanT_NC (+0) [2h Jc] Folded on PreFlop
+Seat 3: BubbaC (-20000) [Kd As] Showdown with High Card Ace +KJT9
+Seat 5: JoyBoy (-20000) [4d 8c] Showdown with a Pair of Eights +JT9
+Seat 6: JoeyCericola (+80050) [7s 9d] Showdown with a Straight, Seven to Jack
+Seat 7: kevrio (-50) [Qd 7c] Folded on PreFlop
+Seat 8: sSs (-20000) [2c 5c] Showdown with High Card Jack +T986
+Seat 9: SriCh (-20000) [Kc 3s] Showdown with High Card King +JT98
+
+kevrio buys add-on
+RyanT_NC buys add-on
+JoyBoy buys add-on
+Hand #12675-4 - 2020-09-22 19:34:14
+Game: NL Hold'em (0+0) - Blinds 50/100
+Site: Give Online Poker
+Table: 0 - TD - Test Tournament - Table 1
+Seat 1: RyanT_NC (30000)
+Seat 5: JoyBoy (30000)
+Seat 6: JoeyCericola (100050)
+Seat 7: kevrio (29950)
+Seat 8: sSs (20000)
+Seat 9: SriCh (240000)
+JoeyCericola has the dealer button
+kevrio posts small blind 50
+sSs posts big blind 100
+** Hole Cards ** [6 players]
+SriCh calls 100
+RyanT_NC raises to 30000 (All-in)
+JoyBoy calls 30000 (All-in)
+JoeyCericola raises to 100050 (All-in)
+kevrio folds
+sSs has timed out
+sSs folds
+SriCh calls 99950
+** Flop ** [Kd Qc Qd]
+** Turn ** [8h]
+** River ** [Ts]
+** Side Pot 1 Show Down ** [Kd Qc Qd 8h Ts]
+JoeyCericola shows [Ah Kh] (Two Pair, Kings and Queens +A)
+SriCh shows [As 3c] (a Pair of Queens +AKT)
+JoeyCericola wins Side Pot 1 (140100) with Two Pair
+** Main Pot Show Down ** [Kd Qc Qd 8h Ts]
+RyanT_NC shows [Td 8c] (Two Pair, Queens and Tens +K)
+JoyBoy shows [3d 2c] (a Pair of Queens +KT8)
+JoeyCericola wins Main Pot (120150) with Two Pair
+JoyBoy finishes tournament in place #20
+RyanT_NC finishes tournament in place #19
+** Summary **
+Board: [Kd Qc Qd 8h Ts], Players: 6, Pots: 2, Total: 260250, Rake: 0, End: Showdown
+Seat 1: RyanT_NC (-30000) [Td 8c] Showdown with Two Pair, Queens and Tens +K
+Seat 5: JoyBoy (-30000) [3d 2c] Showdown with a Pair of Queens +KT8
+Seat 6: JoeyCericola (+160200) [Ah Kh] Showdown with Two Pair, Kings and Queens +A
+Seat 7: kevrio (-50) [5h Ks] Folded on PreFlop
+Seat 8: sSs (-100) [2d 8d] Folded on PreFlop
+Seat 9: SriCh (-100050) [As 3c] Showdown with a Pair of Queens +AKT
+
+SriCh moved to Table 3
+
+JoeyCericola moved to Table 2
+
+kevrio moved to Table 3
+
+sSs moved to Table 2
+
+Table closed - 2020-09-22 20:04:52
+
